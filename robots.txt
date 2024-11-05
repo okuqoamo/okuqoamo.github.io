@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://okuqoamo.github.io/BFc/sitemap_index.txt
+Sitemap: https://okuqoamo.github.io/PhQ/sitemap_index.txt
+Sitemap: https://okuqoamo.github.io/bKJ/sitemap_index.txt
+Sitemap: https://okuqoamo.github.io/nNy/sitemap_index.txt
